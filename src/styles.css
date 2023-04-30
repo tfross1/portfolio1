@@ -98,6 +98,21 @@ p {
 	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
 }
 
+.btn-branding-two {
+	font-family: "Poppins", sans-serif;
+	width: 260px;
+	border-radius: 4px;
+	padding: 15px 30px;
+	text-align: center;
+	background-color: var(--third-color);
+	color: white;
+	font-size: 18px;
+	line-height: 27px;
+	text-decoration: none;
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+	margin-left: 5px;
+}
+
 .btn-branding:hover {
 	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
 	cursor: pointer;
